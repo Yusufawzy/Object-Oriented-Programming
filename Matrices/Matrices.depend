@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1560615517 source:c:\users\yusuf\downloads\matrices\src\matrix.cpp
+	"Matrix.h"
+
+1560615522 c:\users\yusuf\downloads\matrices\include\matrix.h
+	<bits/stdc++.h>
+
+1560615522 source:c:\users\yusuf\downloads\matrices\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	<iostream>
+	"Matrix.h"
+	"Matrix.cpp"
+
+1560615522 c:\users\yusuf\downloads\matrices\include\matrixcalculator.h
+	"Matrix.h"
+
+1560615517 c:\users\yusuf\downloads\matrices\src\matrix.cpp
+	"Matrix.h"
+

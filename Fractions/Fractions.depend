@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1560612664 source:c:\users\yusuf\downloads\fractions\main.cpp
+	"FractionCalculator.h"
+
+1560612664 c:\users\yusuf\downloads\fractions\include\fractioncalculator.h
+
+1560612661 source:c:\users\yusuf\downloads\fractions\src\fraction.cpp
+	"Fraction.h"
+
+1560612664 c:\users\yusuf\downloads\fractions\include\fraction.h
+	<bits/stdc++.h>
+
+1560612664 source:c:\users\yusuf\downloads\fractions\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+	<iostream>
+	<Fraction.h>
+
