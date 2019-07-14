@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1560616507 source:c:\users\yusuf\downloads\bigint\src\bigdecimalint.cpp
+	"BigDecimalInt.h"
+	<bits/stdc++.h>
+
+1560616507 c:\users\yusuf\downloads\bigint\include\bigdecimalint.h
+	<bits/stdc++.h>
+
+1563127132 source:f:\my apps\bigint\main.cpp
+	<bits/stdc++.h>
+	"BigDecimalInt.h"
+
+1563126625 f:\my apps\bigint\include\bigdecimalint.h
+	<bits/stdc++.h>
+
+1563127150 source:f:\my apps\bigint\src\bigdecimalint.cpp
+	"BigDecimalInt.h"
+	<bits/stdc++.h>
+
